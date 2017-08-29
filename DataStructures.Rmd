@@ -5,8 +5,9 @@ output:
   pdf_document: default
 ---
 
+#Data Structures within Functional Programming 
 
-# In this step, I am trying to use functional programming in R.
+In this step, I am trying to use functional programming in R. This is part of my project for my "Data Technologies" course with Prof. Harner.
 
 Certain strains of the bacterium _Escherichia coli_ often found in undercooked foods become a serious health risk if they enter the blood stream. The organism is covered with a chemical compound called a lipopolysaccharide (LPS) that has a toxic effect on the hearts of infected animals. When LPS enters the circulatory system, heart function is affected and heart rate becomes highly elevated. A medical scientist wants to know if the residual effect on heart rate is different for LPS than for other compounds also known to increase heart rate.
 
